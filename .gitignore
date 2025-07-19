@@ -2,3 +2,5 @@
 **/venv
 
 .env
+chroma_data
+google_credentials.json
